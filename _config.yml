@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+theme: pages-themes/cayman@v0.2.0
 title: Logan's Homepage
+plugins:
+- jekyll-remote-theme
 description: Bookmark this if you want to keep up to date with me 😁!
