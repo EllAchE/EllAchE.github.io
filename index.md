@@ -22,5 +22,3 @@ sent in a discord guild. Node/Typescript/Discord.js
 #### [Resume (as of Sep. 2021)](./LH_resume_Sep2021.pdf). This link will be broken until I remove some PII
 
 ![alt text](./grad.jpg)
-
-date: "`r Sys.Date()`"
