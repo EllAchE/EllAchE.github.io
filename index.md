@@ -19,6 +19,6 @@ sent in a discord guild. Node/Typescript/Discord.js
 ### Misc.
 
 #### [LinkedIn](https://www.linkedin.com/in/logan-harless/)
-#### [Resume (as of Sep. 2021)](./LH_resume_Sep2021.pdf). This link will be broken until I remove some PII
+#### [Resume (as of Sep. 2021)](./LH_resume_Sep2021_no_pii.pdf). This link will be broken until I remove some PII
 
 ![alt text](./grad.jpg)
