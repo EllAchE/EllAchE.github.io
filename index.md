@@ -1,5 +1,10 @@
 ## Logan Harless
-Currently full-stack engineer/technical consultant @Credera.
+Currently: 
+- Full-stack engineer/technical consultant @Credera.
+Formerly: 
+- Product Management & Business Analyst Intern @Capital One
+- Founder/CTO @CampusOven
+- B.S. Mechanical Engineering The University of Texas at Dallas
 
 Interested in web scraping, NLP, Prediction/Financial/Crypto markets, mobile app development and more with
 Java, Node/Typescript, Python... see my resume or LinkedIn for the full list :)
