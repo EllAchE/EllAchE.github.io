@@ -14,9 +14,12 @@ of formats and sending discord notifications based on extracted data and customi
 [discord_embed_parser](https://github.com/EllAchE/discord_embed_parser) - A bot for regex-based filtering of embeds
 sent in a discord guild. Node/Typescript/Discord.js
 
-[kalshi_cli](https://github.com/EllAchE/kalshi_cli) - Python scripts for interacting with Kalshi API, executable via CLI. Python (In progress)
+[kalshi_cli](https://github.com/EllAchE/kalshi_cli) - Python scripts for interacting with Kalshi API, executable
+via CLI. Python (In progress)
 
-[*nba_tipoff](https://github.com/EllAchE/nba-tipoff-scraper) - Comparison of predictive ability of elo, glicko2 and trueskill algorithms and forecasting of first score via XGBoost. Python/Beautiful Soup/XGBoost. *This is publicly available primarily so that I could discuss/display the work I did.
+[*nba_tipoff](https://github.com/EllAchE/nba-tipoff-scraper) - Comparison of predictive ability of elo, glicko2 and
+trueskill algorithms and forecasting of first score via XGBoost. Python/Beautiful Soup/XGBoost.
+*This is publicly available primarily to discuss/display; not easily suited to reuse.
 
 ### Misc.
 
