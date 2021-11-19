@@ -7,10 +7,7 @@ Formerly:
 - B.S. Mechanical Engineering The University of Texas at Dallas
 
 Interested in web scraping, NLP, Prediction/Financial/Crypto markets, mobile app development and more with
-Java, Node/Typescript, Python... see my resume or LinkedIn for the full list :)
-
-Always looking to build with others, feel free to reach out!
-
+Node/Typescript, Python, Java and more...
 
 ### Public projects
 [discord_site_monitor](https://github.com/EllAchE/discord_site_monitor) - A bot for scraping webpages in a wide variety
