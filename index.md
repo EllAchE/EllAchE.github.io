@@ -16,8 +16,12 @@ Always looking to build with others, feel free to reach out!
 [discord_site_monitor](https://github.com/EllAchE/discord_site_monitor) - A bot for scraping webpages in a wide variety
 of formats and sending discord notifications based on extracted data and customizable logic . Node/Typescript/Discord.js
 
-[discord_embed_parser](https://github.com/EllAchE/discord_embed_parser) - A bot for regex-based filtering of embeds
+[discord_embed_parser](https://github.com/EllAchE/discord_embed_parser) - Regex-based filtering of embeds
 sent in a discord guild. Node/Typescript/Discord.js
+
+[cbp_listing_order](https://github.com/EllAchE/cbp_listing_order) - Listener on Coinbase Blog RSS feed that automatically
+executes trades via the Coinbase API based on regular expression parsing of new articles.
+Redacted version of a private repo. Node/Typescript/coinbasepro-node
 
 [kalshi_cli](https://github.com/EllAchE/kalshi_cli) - Python scripts for interacting with Kalshi API, executable
 via CLI. Python (In progress)
