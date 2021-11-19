@@ -33,6 +33,6 @@ trueskill algorithms and forecasting of first score via XGBoost. Python/Beautifu
 ### Misc.
 
 #### [LinkedIn](https://www.linkedin.com/in/logan-harless/)
-#### [Resume (as of Sep. 2021)](./LH_resume_Sep2021_no_pii.pdf). This link will be broken until I remove some PII
+#### [Resume (as of Sep. 2021)](./LH_resume_Sep2021_no_pii.pdf)
 
 ![alt text](./grad.jpg)
