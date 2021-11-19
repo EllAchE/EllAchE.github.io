@@ -21,7 +21,7 @@ sent in a discord guild. Node/Typescript/Discord.js
 
 [cbp_listing_order](https://github.com/EllAchE/cbp_listing_order) - Listener on Coinbase Blog RSS feed that automatically
 executes trades via the Coinbase API based on regular expression parsing of new articles.
-Redacted version of a private repo. Node/Typescript/coinbasepro-node
+Redacted version of a private repo, so some features are absent. Node/Typescript/coinbasepro-node
 
 [kalshi_cli](https://github.com/EllAchE/kalshi_cli) - Python scripts for interacting with Kalshi API, executable
 via CLI. Python (In progress)
