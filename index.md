@@ -6,7 +6,7 @@ Experiences:
 - Full-stack engineer/technical consultant @Credera.
 - Product Management & Business Analyst Intern @Capital One
 - Founder/CTO @CampusOven
-- B.S. Mechanical Engineering The University of Texas at Dallas
+- UTD Class of 2020
 - And more...
 
 #### [LinkedIn](https://www.linkedin.com/in/logan-harless/)
