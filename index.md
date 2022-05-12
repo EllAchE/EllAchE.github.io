@@ -2,18 +2,19 @@
 
 Experiences:
 
-- First full-time hire & Founding Engineer (full-stack) @Nourish, a YC-backe
+- First full-time hire & founding engineer @Nourish (YC W21)
 - Full-stack engineer/technical consultant @Credera.
-  Formerly:
 - Product Management & Business Analyst Intern @Capital One
 - Founder/CTO @CampusOven
 - B.S. Mechanical Engineering The University of Texas at Dallas
 - And more...
 
+#### [LinkedIn](https://www.linkedin.com/in/logan-harless/)
+
+#### [Resume (as of Sep. 2021)](./LH_resume_Sep2021_no_pii.pdf)
+
 Interest and experience in web scraping/automation, NLP, Prediction/Financial/Crypto markets, mobile app development and more with
 Node/Typescript, Python, Java and more...
-
-2 years of work experience in dAWS
 
 ### Public projects
 
@@ -29,14 +30,13 @@ Redacted version of a private repo, so some features are absent. Node/Typescript
 [kalshi_cli](https://github.com/EllAchE/kalshi_cli) - Python scripts for interacting with Kalshi API, executable
 via CLI. Built for API v1, no longer maintained.
 
+[vcard2csv_clone](https://github.com/EllAchE/vcard2csv_clone) - Simple extension of nbeaver's vcard2csv script, new features
+include: recursive .vcf search, address support, first/last name splitting and mobile phone category support
+
 [\*nba_tipoff](https://github.com/EllAchE/nba-tipoff-scraper) - Comparison of predictive ability of elo, glicko2 and
 trueskill algorithms in forecasting winners of NBA tipoffs. Python/Beautiful Soup/XGBoost.
 \*This was an exploratory project is publicly available primarily to discuss/display; not easily suited to reuse.
 
 ### Misc.
-
-#### [LinkedIn](https://www.linkedin.com/in/logan-harless/)
-
-#### [Resume (as of Sep. 2021)](./LH_resume_Sep2021_no_pii.pdf)
 
 ![alt text](./grad.jpg)
