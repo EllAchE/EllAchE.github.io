@@ -1,5 +1,4 @@
-Interest and experience in web scraping/automation, NLP, Prediction/Financial/Crypto markets, mobile app development and more with
-Node/Typescript, Python, Java and more...
+Always building 💪. Web scraping/automation, NLP, Prediction/Financial/Crypto markets, mobile app development and on with Node/Typescript, Flutter, Python...
 
 Experiences:
 
