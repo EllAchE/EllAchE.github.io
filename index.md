@@ -1,5 +1,8 @@
 ## Logan Harless
 
+Interest and experience in web scraping/automation, NLP, Prediction/Financial/Crypto markets, mobile app development and more with
+Node/Typescript, Python, Java and more...
+
 Experiences:
 
 - First full-time hire & founding engineer @Nourish (YC W21)
@@ -11,10 +14,7 @@ Experiences:
 
 #### [LinkedIn](https://www.linkedin.com/in/logan-harless/)
 
-#### [Resume (as of Sep. 2021)](./LH_resume_Sep2021_no_pii.pdf)
-
-Interest and experience in web scraping/automation, NLP, Prediction/Financial/Crypto markets, mobile app development and more with
-Node/Typescript, Python, Java and more...
+#### [Resume (as of May 2022)](./resume.pdf)
 
 ### Public projects
 
