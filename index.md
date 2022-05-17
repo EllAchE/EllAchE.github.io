@@ -1,5 +1,3 @@
-## Logan Harless
-
 Interest and experience in web scraping/automation, NLP, Prediction/Financial/Crypto markets, mobile app development and more with
 Node/Typescript, Python, Java and more...
 
