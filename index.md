@@ -3,7 +3,7 @@ Always building 💪. Web scraping/automation, NLP, Prediction/Financial/Crypto 
 Experiences:
 
 - First full-time hire & founding engineer @Nourish (YC W21)
-- Full-stack engineer/technical consultant @Credera.
+- Full-stack engineer/technical consultant @Credera
 - Product Management & Business Analyst Intern @Capital One
 - Founder/CTO @CampusOven
 - UTD Class of 2020
