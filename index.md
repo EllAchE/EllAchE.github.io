@@ -39,4 +39,3 @@ trueskill algorithms in forecasting winners of NBA tipoffs. Python/Beautiful Sou
 ### Misc.
 
 ![alt text](./grad.jpg)
-![alt text](./profilegif.gif)
