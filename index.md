@@ -15,6 +15,8 @@ Experiences:
 
 [discord_site_monitor](https://github.com/EllAchE/discord_site_monitor) - Scrapes webpages in (almost) any web format, then sends discord notifications based on extracted data and customizable logic. This is a public version of a private repo with more features; i.e. executing actions based on the resulting data, support for frequency up to 1s etc. Node/Typescript/Discord.js, Redis DB
 
+[pm_py](https://github.com/EllAchE/pm_py/blob/main/README.md) - Flask server for engaging with the Polygon blockchain; specifically polymarket smart contracts. Supports buy, sell, redeem, listing positions etc. Built on top of existing code from PolyTrader, see project README.
+
 [discord_embed_parser](https://github.com/EllAchE/discord_embed_parser) - Regex-based filtering of embeds
 sent in a discord guild. Deployable as a firebase app. Node/Typescript/Discord.js
 
@@ -22,13 +24,8 @@ sent in a discord guild. Deployable as a firebase app. Node/Typescript/Discord.j
 executes trades via the Coinbase API based on regular expression parsing of new articles.
 Redacted version of a private repo, so some features are absent. Node/Typescript/coinbasepro-node
 
-[pm_py](https://github.com/EllAchE/pm_py/blob/main/README.md) - Flask server for engaging with the Polygon blockchain; specifically polymarket smart contracts. Supports buy, sell, redeem, listing positions etc. Built on top of existing code from PolyTrader, see project README.
-
 [kalshi_cli](https://github.com/EllAchE/kalshi_cli) - Python scripts for interacting with Kalshi API, executable
 via CLI. Built for API v1, no longer maintained.
-
-[vcard2csv_clone](https://github.com/EllAchE/vcard2csv_clone) - Simple extension of nbeaver's vcard2csv script, new features
-include: recursive .vcf search, address support, first/last name splitting and mobile phone category support
 
 [\*nba_tipoff](https://github.com/EllAchE/nba-tipoff-scraper) - Comparison of predictive ability of elo, glicko2 and
 trueskill algorithms in forecasting winners of NBA tipoffs. Python/Beautiful Soup/XGBoost.
