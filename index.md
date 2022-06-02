@@ -13,7 +13,7 @@ Experiences:
 
 ### Public projects
 
-[discord_site_monitor](https://github.com/EllAchE/discord_site_monitor) - Scrapes webpages in (almost) any web format, then sends discord notifications based on extracted data and customizable logic. This is a public version of a private repo with more features; i.e. executing actions based on the resulting data, support for frequency up to 1s etc. Node/Typescript/Discord.js, supported by a Redis database
+[discord_site_monitor](https://github.com/EllAchE/discord_site_monitor) - Scrapes webpages in (almost) any web format, then sends discord notifications based on extracted data and customizable logic. This is a public version of a private repo with more features; i.e. executing actions based on the resulting data, support for frequency up to 1s etc. Node/Typescript/Discord.js, Redis DB
 
 [discord_embed_parser](https://github.com/EllAchE/discord_embed_parser) - Regex-based filtering of embeds
 sent in a discord guild. Deployable as a firebase app. Node/Typescript/Discord.js
@@ -32,7 +32,7 @@ include: recursive .vcf search, address support, first/last name splitting and m
 
 [\*nba_tipoff](https://github.com/EllAchE/nba-tipoff-scraper) - Comparison of predictive ability of elo, glicko2 and
 trueskill algorithms in forecasting winners of NBA tipoffs. Python/Beautiful Soup/XGBoost.
-\*This was an exploratory project is publicly available primarily to discuss/display; not easily suited to reuse.
+\*This was an exploratory project; made publicly available to discuss/display; not easily suited to reuse.
 
 ### Misc.
 
