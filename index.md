@@ -13,7 +13,7 @@ Experiences:
 
 ### Public projects
 
-[discord_site_monitor](https://github.com/EllAchE/discord_site_monitor) - Scrapes webpages in (almost) any web format, then sends discord notifications based on extracted data and customizable logic. This is a public version of a private repo with more features; i.e. executing actions based on the resulting data, support for frequency up to 1s etc. Node/Typescript/Discord.js, Redis DB
+[discord_site_monitor](https://github.com/EllAchE/discord_site_monitor) - Scrapes webpages in (almost) any web format, then sends discord notifications based on extracted data and customizable logic. This is a public version of a private repo with more features. Private repo includes executing actions based on the resulting data, support for frequency up to 1 sec, bot commands etc. Node/Typescript/Discord.js, Redis DB
 
 [pm_py](https://github.com/EllAchE/pm_py/blob/main/README.md) - Flask server for engaging with the Polygon blockchain; specifically polymarket smart contracts. Supports buy, sell, redeem, listing positions etc. Built on top of existing code from PolyTrader, see project README.
 
