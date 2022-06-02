@@ -24,7 +24,7 @@ sent in a discord guild. Deployable as a firebase app. Node/Typescript/Discord.j
 executes trades via the Coinbase API based on regular expression parsing of new articles.
 Redacted version of a private repo, so some features are absent. Node/Typescript/coinbasepro-node
 
-[pm_py](https://github.com/EllAchE/pm_py/blob/main/README.md) - Flask server for engaging with the Polygon blockchain; specifically polymarket smart contracts. Supports buy, sell, redeem, listing positions etc. Built on top of existing code from PolyTrader, see project README. 
+[pm_py](https://github.com/EllAchE/pm_py/blob/main/README.md) - Flask server for engaging with the Polygon blockchain; specifically polymarket smart contracts. Supports buy, sell, redeem, listing positions etc. Built on top of existing code from PolyTrader, see project README.
 
 [kalshi_cli](https://github.com/EllAchE/kalshi_cli) - Python scripts for interacting with Kalshi API, executable
 via CLI. Built for API v1, no longer maintained.
@@ -39,3 +39,4 @@ trueskill algorithms in forecasting winners of NBA tipoffs. Python/Beautiful Sou
 ### Misc.
 
 ![alt text](./grad.jpg)
+![alt text](./profilegif.gif)
