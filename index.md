@@ -9,7 +9,7 @@ Experiences:
 - UTD Class of 2020
 - And more...
 
-#### [LinkedIn](https://www.linkedin.com/in/logan-harless/) | [Resume (as of May 2022)](./resume.pdf)
+#### [LinkedIn](https://www.linkedin.com/in/logan-harless/)
 
 ### Public projects
 
