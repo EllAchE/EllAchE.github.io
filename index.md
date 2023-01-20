@@ -2,6 +2,7 @@ Always building 💪. Web scraping/automation, NLP, Prediction/Financial/Crypto 
 
 Experiences:
 
+- Full-stack engineer @ C3.AI
 - First full-time hire & founding engineer @Nourish (YC W21)
 - Full-stack engineer/technical consultant @Credera
 - Product Management & Business Analyst Intern @Capital One
@@ -13,15 +14,15 @@ Experiences:
 
 ### Public projects
 
+[add-events](https://github.com/EllAchE/add-events) - Chrome extension to automatically add events to your calendar
+
+[discord_site_monitor](https://github.com/EllAchE/discord_site_monitor) - Scrapes webpages in (almost) any web format, then sends discord notifications based on extracted data and customizable logic. This is a public version of a private repo with more features. Private repo features include: executing actions based on the resulting data, support for frequency up to 1 sec, additional bot commands etc. Node/Typescript/Discord.js, Redis DB
+
 [lingobingo](https://lingobingo.app) - Find out who is the biggest tech bro, weeb, ABG or corporate stereotype 😁 and liven up meetings & lectures by tracking which catchphrases the speaker spits out! Use a preset or create your own bingo card. React/MUI & tailwind css
 
 [insta-auto-like-v2](https://github.com/EllAchE/insta-auto-like-v2) - Automatically ❤️ your friend's posts
 
-[add-events](https://github.com/EllAchE/add-events) - Chrome extension to automatically add events to your calendar
-
 [word-shortening](https://github.com/EllAchE/word-shortening) - Type fewer characters with autocomplete generated from the 33,000 most common English words. Python script to generate plist file for macos use.
-
-[discord_site_monitor](https://github.com/EllAchE/discord_site_monitor) - Scrapes webpages in (almost) any web format, then sends discord notifications based on extracted data and customizable logic. This is a public version of a private repo with more features. Private repo features include: executing actions based on the resulting data, support for frequency up to 1 sec, additional bot commands etc. Node/Typescript/Discord.js, Redis DB
 
 [pm_py](https://github.com/EllAchE/pm_py/blob/main/README.md) - Flask server for engaging with the Polygon blockchain; specifically polymarket smart contracts. Supports buy, sell, redeem, listing positions etc. Built on top of existing code from PolyTrader, see project README.
 
