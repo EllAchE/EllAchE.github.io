@@ -1,4 +1,6 @@
-Always building 💪. Web scraping/automation, NLP, Prediction/Financial/Crypto markets, mobile app development and more with Node/Typescript, Flutter, Python...
+Building cool things and looking for cool things to build 😁
+https://www.lingobingo.app/ &
+https://www.lingobingo.app/rap
 
 Experiences:
 
