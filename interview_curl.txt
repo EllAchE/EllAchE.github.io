@@ -1,6 +1,6 @@
-curl --location 'logan-phi.vercel.app/api/accept' \
+curl --location 'logan-phi.vercel.app/api/interview' \
 --header 'Content-Type: application/json' \
 --data '{
     "message": "Write your message to me here! I'\''ll get it via telegram.",
-    "interview": true
+    "offerInterview": true
 }'
