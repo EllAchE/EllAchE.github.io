@@ -14,6 +14,8 @@ Experiences:
 - UTD Class of 2020
 - And more...
 
+### [Curl Request to interview me :)](./interview_curl.txt)
+
 #### [Resume](./LH_resume_Mar_2023.pdf)
 
 #### [LinkedIn](https://www.linkedin.com/in/logan-harless/)
