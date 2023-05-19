@@ -1,8 +1,5 @@
 Building cool things and looking for cool things to build 😁
 
-[https://www.lingobingo.app/](https://www.lingobingo.app/) &  
-[https://www.lingobingo.app/rap](https://www.lingobingo.app/rap)
-
 Experiences:
 
 - Now: Building in stealth 🥷! Digital identity in the event ticketing space. [Calendly to discuss](https://calendly.com/lhar8771/15min)
@@ -22,7 +19,7 @@ Experiences:
 
 [discord_site_monitor](https://github.com/EllAchE/discord_site_monitor) - Scrapes webpages in (almost) any web format, then sends discord notifications based on extracted data and customizable logic. This is a public version of a private repo with more features. Private repo features include: executing actions based on the resulting data, support for frequency up to 1 sec, additional bot commands etc. Node/Typescript/Discord.js, Redis DB
 
-[lingobingo](https://lingobingo.app) - Find out who is the biggest tech bro, weeb, ABG or corporate stereotype 😁 and liven up meetings & lectures by tracking which catchphrases the speaker spits out! Use a preset or create your own bingo card. React/MUI & tailwind css
+[lingobingo](https://lingobingo.app) - Find out who is the biggest tech bro, weeb, ABG or corporate stereotype 😁 and liven up meetings & lectures by tracking which catchphrases the speaker spits out! Use a preset or create your own bingo card. React/MUI & tailwind css. Also check [https://www.lingobingo.app/rap](https://www.lingobingo.app/rap)
 
 [insta-auto-like-v2](https://github.com/EllAchE/insta-auto-like-v2) - Automatically ❤️ your friend's posts
 
