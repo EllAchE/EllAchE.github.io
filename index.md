@@ -1,8 +1,8 @@
 Building cool things and looking for cool things to build 😁
 <br/>
-<a>https://www.lingobingo.app/</a href="https://www.lingobingo.app/"> &
+<a>https://www.lingobingo.app/</a> &
 <br/>
-<a>https://www.lingobingo.app/rap</a href="https://www.lingobingo.app/rap">
+<a>https://www.lingobingo.app/rap</a>
 
 Experiences:
 
