@@ -1,11 +1,12 @@
 Building cool things and looking for cool things to build 😁
 <br/>
-https://www.lingobingo.app/ &
+(https://www.lingobingo.app/)[https://www.lingobingo.app/] &
 <br/>
-https://www.lingobingo.app/rap
+(https://www.lingobingo.app/rap)[https://www.lingobingo.app/rap]
 
 Experiences:
 
+- Now: Building in stealth. Digital identity in the event ticketing space. (Calendly to discuss)[https://calendly.com/lhar8771/15min]
 - Full-stack engineer @ C3.AI
 - First full-time hire & founding engineer @Nourish (YC W21)
 - Full-stack engineer/technical consultant @Credera
